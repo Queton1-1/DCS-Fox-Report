@@ -4,7 +4,7 @@ FoxReport
 
 Téléchargement     
 --------  
-https://github.com/Queton1-1/EWRS-script/releases  
+https://github.com/Queton1-1/DCS-Fox-Report/releases/
   
 Fonctionnalités  
 --------  
