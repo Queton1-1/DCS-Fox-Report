@@ -10,7 +10,7 @@ Fonctionnalités
 --------  
 - ne requiert ni MOOSE, ni MIST
 - disponible pour toutes les coalitions
-- télémétre des tirs de missiles air-air
+- télémétrie des tirs de missiles air-air
 
 Installation    
 --------  
